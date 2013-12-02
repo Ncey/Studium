@@ -1,0 +1,13 @@
+Termin	Inhalt														Skript			Folien
+22.10.	Einführung 																	Vorlesung1
+24.10.	Flussprobleme 												Kapitel 4 		Vorlesung2
+29.10.	Besprechung ÜB1 															Übung1
+31.10.	Flussprobleme 	 											Kapitel 4 		Vorlesung3
+05.11.	Fluss mit Kosten & Matchings 												Vorlesung4
+07.11.	Minimale Schnitte 											Kapitel 3 		Vorlesung5
+12.11.	Besprechung ÜB2 															Übung2
+14.11.	Kreisbasen, Matroide & Greedy Algorithmen 					Kapitel 5 & 2.6 Vorlesung6
+19.11.	Kreisbasen, Algorithmus von Horton, Algorithmus von de Pina	Kapitel 5 & 2.6 Vorlesung7
+21.11.	Randomisierte Algorithmen 									Kapitel 8 		Vorlesung8
+26.11.	Besprechung ÜB3 															Übung3
+28.11.	Randomisierte Algorithmen, MaxCut 							Kapitel 8 		Vorlesung9
